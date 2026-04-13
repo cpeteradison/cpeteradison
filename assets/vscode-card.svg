@@ -66,37 +66,37 @@
 
     <line x1="160" y1="177" x2="160" y2="363" stroke="#666666" stroke-width="2"/>
 
-    <text x="184" y="170" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">const </text>
-    <text x="241" y="170" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">developer</text>
-    <text x="340" y="170" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5"> = {</text>
+    <text x="184" y="170" fill="#61AFEF" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">const </text>
+    <text x="241" y="170" fill="#61AFEF" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">developer</text>
+    <text x="350" y="170" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5"> = {</text>
 
     <text x="206" y="205" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">name</text>
     <text x="258" y="205" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: </text>
-    <text x="275" y="205" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"Peter"</text>
+    <text x="275" y="205" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'Peter'</text>
     <text x="350" y="205" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">,</text>
 
     <text x="206" y="240" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">role</text>
     <text x="258" y="240" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: </text>
-    <text x="275" y="240" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"Full-time Software Engineer"</text>
+    <text x="275" y="240" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'Full-time Software Engineer'</text>
     <text x="585" y="240" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">,</text>
 
     <text x="206" y="275" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">currentFocus</text>
     <text x="335" y="275" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: </text>
-    <text x="352" y="275" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"Exploring AI through side projects"</text>
+    <text x="352" y="275" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'Exploring AI through side projects'</text>
     <text x="730" y="275" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">,</text>
 
     <text x="206" y="310" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">status</text>
     <text x="276" y="310" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: </text>
-    <text x="293" y="310" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"Building outside of work"</text>
+    <text x="293" y="310" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'Building outside of work'</text>
     <text x="575" y="310" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">,</text>
 
     <text x="206" y="345" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">mindset</text>
     <text x="285" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: [</text>
-    <text x="320" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"learn"</text>
+    <text x="320" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'learn'</text>
     <text x="394" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">, </text>
-    <text x="409" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"build"</text>
+    <text x="409" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'build'</text>
     <text x="486" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">, </text>
-    <text x="506" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"ship"</text>
+    <text x="506" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">'ship'</text>
     <text x="574" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">]</text>
 
     <text x="184" y="380" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">};</text>
