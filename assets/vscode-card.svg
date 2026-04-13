@@ -1,12 +1,12 @@
-<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="440" viewBox="0 0 1200 440" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="windowClip">
-      <rect x="16" y="16" width="1168" height="438" rx="16"/>
+      <rect x="16" y="16" width="1168" height="408" rx="16"/>
     </clipPath>
   </defs>
 
-  <rect width="1200" height="470" rx="24" fill="#0D1117"/>
-  <rect x="16" y="16" width="1168" height="438" rx="16" fill="#1E1E1E" stroke="#2D2D30"/>
+  <rect width="1200" height="440" rx="24" fill="#0D1117"/>
+  <rect x="16" y="16" width="1168" height="408" rx="16" fill="#1E1E1E" stroke="#2D2D30"/>
 
   <g clip-path="url(#windowClip)">
     <rect x="16" y="16" width="1168" height="48" fill="#181818"/>
@@ -33,23 +33,23 @@
     <rect x="88" y="104" width="1096" height="350" fill="#1E1E1E"/>
 
     <g opacity="0.95" stroke="#858585" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M41 111H58L63 116V139H41V111Z"/>
-      <path d="M58 111V116H63"/>
+      <path d="M41 81H58L63 86V109H41V81Z"/>
+      <path d="M58 81V86H63"/>
 
-      <circle cx="52" cy="180" r="12"/>
-      <path d="M60 188L68 196"/>
+      <circle cx="52" cy="150" r="12"/>
+      <path d="M60 158L68 166"/>
 
-      <circle cx="43" cy="244" r="4.5" fill="#858585" stroke="none"/>
-      <circle cx="61" cy="236" r="4.5" fill="#858585" stroke="none"/>
-      <circle cx="61" cy="254" r="4.5" fill="#858585" stroke="none"/>
-      <path d="M46.5 242L57.5 237.8"/>
-      <path d="M46.5 246L57.5 252.2"/>
+      <circle cx="43" cy="214" r="4.5" fill="#858585" stroke="none"/>
+      <circle cx="61" cy="206" r="4.5" fill="#858585" stroke="none"/>
+      <circle cx="61" cy="224" r="4.5" fill="#858585" stroke="none"/>
+      <path d="M46.5 212L57.5 207.8"/>
+      <path d="M46.5 216L57.5 222.2"/>
 
-      <rect x="40" y="288" width="12" height="12"/>
-      <rect x="52" y="276" width="12" height="12"/>
-      <rect x="52" y="300" width="12" height="12"/>
-      <path d="M52 282H58"/>
-      <path d="M52 306H58"/>
+      <rect x="40" y="268" width="12" height="12"/>
+      <rect x="52" y="256" width="12" height="12"/>
+      <rect x="52" y="280" width="12" height="12"/>
+      <path d="M52 262H58"/>
+      <path d="M52 286H58"/>
     </g>
 
     <text x="112" y="130" fill="#858585" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14">README.md</text>
@@ -93,7 +93,7 @@
     <text x="206" y="345" fill="#9CDCFE" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">mindset</text>
     <text x="285" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">: [</text>
     <text x="320" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"learn"</text>
-    <text x="381" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">, </text>
+    <text x="394" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">, </text>
     <text x="409" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"build"</text>
     <text x="486" y="345" fill="#D4D4D4" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">, </text>
     <text x="506" y="345" fill="#CE9178" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17.5">"ship"</text>
